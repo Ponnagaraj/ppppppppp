@@ -9,9 +9,9 @@ The parabank is web based banking application used to get online banking experie
 **#Getting Started**
 
 **#Prerequisites**
->JDK8 installed
->Maven 3.3 or above
->Chrome Version 108.0.5359.125
+*JDK8 installed
+*Maven 3.3 or above
+*Chrome Version 108.0.5359.125
 
 **#Contact**
 
