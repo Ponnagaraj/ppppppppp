@@ -11,9 +11,9 @@ Used Automation tool is Selenium WebDriver and used design pattern is Page Objec
 **##Getting Started**
 
 **##Prerequisites**
-\>=JDK8 installed
-\>=Maven 3.3 or above
-\>=Chrome Version 108.0.5359.125
+*\>=JDK8 installed
+*\>=Maven 3.3 or above
+*\>=Chrome Version 108.0.5359.125
 
 
 **##Framework Used**
