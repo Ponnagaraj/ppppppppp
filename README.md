@@ -2,7 +2,7 @@
 
 The Automation is created for testing the Account creation and bill pay functionalities of the Parabank web application which are considered as the major functionality of the web application.
 
-**<h>#Description**
+**#Description**
 
 The parabank is web based banking application used to get online banking experience. In this particular project, this tests validated two major functionality of the web application as per given assesment. 
 
@@ -30,8 +30,10 @@ Used Automation tool is Selenium WebDriver and used design pattern is Page Objec
 *\>=Chrome Version 108.0.5359.125
 
 
-**##Contact**
+**##Author and Contact**
+
+Author        : Ponnagaraj C
 
 Mail ID       : ponnagarajchitrambalam@gmail.com
 
-Mobile Number : 8015796280
+Mobile Number : +91-8015796280
